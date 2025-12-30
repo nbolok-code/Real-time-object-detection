@@ -1,10 +1,9 @@
 Real-Time Object Detection 🎥🤖
 A browser-based object detection system that uses your webcam and TensorFlow.js to identify objects in real-time.
 
-https://img.shields.io/badge/demo-live-green
-https://img.shields.io/badge/license-MIT-blue
-https://img.shields.io/badge/TensorFlow.js-FF6F00?logo=tensorflow
-
+![Demo](https://img.shields.io/badge/demo-live-green)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?logo=tensorflow)
 ✨ Features
 Real-time detection using webcam
 
@@ -71,8 +70,7 @@ Results displayed with bounding boxes
 
 All processing happens locally
 
-📸 Screenshots
-https://assets/screenshot.png
+
 
 🤝 Contributing
 Contributions welcome! Feel free to submit issues and pull requests.
